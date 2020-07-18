@@ -18,7 +18,7 @@
 - Git
 - Jira
 - Asana
-- Android Code
+- Android Studio
 - XCode
 
 ## Operating System
