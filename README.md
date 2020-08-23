@@ -1,6 +1,6 @@
-# 💻 MEAN/MERN stack Developer
+# 💻 Software Developer
 
-### Hi there 👋 I'm Niraj Patel, a passionate MERN and MEAN stack developer from Ahmedabad, India.
+##### Hi there 👋 I'm Niraj Patel, a passionate Software Developer👨‍💻 who is enthusiastic about learning new technologies. I am wandering in MEAN and MERN stack. I like dark mode everywhere hence I am not into dark mode v/s light mode discussions. Sometimes I stare at my code until it confesses if doesn't works.🤦‍♂️🖥️
 
 ## Skills
 
